@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Maria 
 #### Full Stack Developer
-Soy una **Desarrolladora Full Stack** con formación en Tecnologías de la Información y experiencia multidisciplinaria en **desarrollo, administración y docencia, Aunque domino el **backend**, mi verdadera fortaleza y pasión está en el **desarrollo Frontend**, donde combino diseño, interactividad y rendimiento para lograr experiencias digitales de alto impacto.  
+Soy una **Desarrolladora Full Stack** con formación en Tecnologías de la Información y experiencia multidisciplinaria en **desarrollo, administración y docencia, Aunque domino el **backend**, mi verdadera fortaleza y pasión está en el desarrollo Frontend**, donde combino diseño, interactividad y rendimiento para lograr experiencias digitales de alto impacto.  
 
 
 Habilidades: `JavaScript` `TypeScript` `HTML` `CSS` `Python` `Java` `PHP` `C++` `SQL` `React` `Angular` `Node.js` `Bootstrap` `Tailwind` `PWA` `Service Workers`  `MySQL` `Docker` `Docker Compose` `Apache` `VS Code` `XAMPP` `VirtualBox`   `StarUML` `Packet Tracer` `SSH` `Nmap` `Zenmap` 
